@@ -42,29 +42,5 @@ frontend/
 │   ├── App.js
 │   ├── index.js
 │   └── ...
-🛠️ Setup Instructions
-1. Clone the Repo
-bash
-Copy
-Edit
-git clone https://github.com/your-username/ecommerce-frontend.git
-cd ecommerce-frontend
-2. Install Dependencies
-bash
-Copy
-Edit
-npm install
-3. Configure Backend API URL
-Create a .env file in the root:
 
-bash
-Copy
-Edit
-REACT_APP_API_BASE_URL=http://localhost:8080/api
-4. Run the Frontend
-bash
-Copy
-Edit
-npm start
-The app will run at: http://localhost:3000
 
